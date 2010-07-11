@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	1B3DD1AD11E9E7EF00473C89 /* Crash */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Crash;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1B3DD1BA11E9E80E00473C89 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1B3DD1BB11E9E80E00473C89 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1B3DD1FA11E9EA7400473C89 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Crash-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Shared/Dropbox/workspace/projects/github.com/crash/Crash-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	1B3DD21711E9EC1500473C89 /* README.md */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {764, 517}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 167}";
+		};
+	};
+	1B3DD21D11E9ECD200473C89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 13";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	1B3DD21F11E9ECD200473C89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B3DD21711E9EC1500473C89 /* README.md */;
+		name = "README.md: 11";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 167;
+		vrLoc = 0;
+	};
+	1B3DD22A11E9ED0200473C89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1B3DD21711E9EC1500473C89 /* README.md */;
+		name = "README.md: 11";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 167;
+		vrLoc = 0;
+	};
+	1D6058900D05DD3D006BFB54 /* Crash */ = {
+		activeExec = 0;
+		executables = (
+			1B3DD1AD11E9E7EF00473C89 /* Crash */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1B3DD1AD11E9E7EF00473C89 /* Crash */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Crash */;
+		addToTargets = (
+		);
+		codeSenseManager = 1B3DD1BB11E9E80E00473C89 /* Code sense */;
+		executables = (
+			1B3DD1AD11E9E7EF00473C89 /* Crash */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					586,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 300543208;
+			PBXWorkspaceStateSaveDate = 300543208;
+		};
+		perUserProjectItems = {
+			1B3DD1FA11E9EA7400473C89 /* PlistBookmark */ = 1B3DD1FA11E9EA7400473C89 /* PlistBookmark */;
+			1B3DD21D11E9ECD200473C89 /* PBXTextBookmark */ = 1B3DD21D11E9ECD200473C89 /* PBXTextBookmark */;
+			1B3DD21F11E9ECD200473C89 /* PBXTextBookmark */ = 1B3DD21F11E9ECD200473C89 /* PBXTextBookmark */;
+			1B3DD22A11E9ED0200473C89 /* PBXTextBookmark */ = 1B3DD22A11E9ED0200473C89 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1B3DD1BA11E9E80E00473C89 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1028, 196}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Crash-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{56, 32}, {1303, 991}}";
+		};
+	};
+}
